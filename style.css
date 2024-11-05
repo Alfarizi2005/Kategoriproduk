@@ -1,0 +1,21 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: pink;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #228B22; /* Warna hijau untuk tema agrikultur */
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    background-color: #e0ffe0;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
